@@ -5,3 +5,8 @@ This is a tutorial on how to fix an old image that was put out back in 2021? And
 Error:
 
 start4.elf: is not compatible
+
+
+[Updates to come...] 
+
+Last updated: Oct 5, 2024
