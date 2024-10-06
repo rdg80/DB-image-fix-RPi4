@@ -26,7 +26,10 @@ V. Plug in gamepad and configure
 VI. Fixing the Reboot and Shutdown options (in menus)
 	A. Login to your RPi again, using terminal emulator
 		1. Run chmod commands to grant privledges for the Reboot and Shutdown options
-  
+
+
+Oops that did not format properly, I'll have to fix the outline later
+
 [More updates to come...] 
 
 Last updated: Oct 6, 2024
