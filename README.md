@@ -5,7 +5,7 @@ This is a tutorial on how to fix an old image that was put out back in 2021? And
 Error:
 start4.elf: is not compatible
 
-Main Outline - Steps to fix image
+# Main Outline - Steps to fix image
 
 ## I. Get Image onto SD Card
    A. Use disk/card imager of choice
