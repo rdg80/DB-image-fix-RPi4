@@ -49,4 +49,4 @@ start4.elf: is not compatible
 
 [More updates to come...] 
 
-Last updated: Oct 7, 2024
+Last updated: Oct 9, 2024
