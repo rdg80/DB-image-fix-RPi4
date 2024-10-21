@@ -34,6 +34,8 @@ start4.elf: is not compatible
    
    B. The `ssh` file automatically enables SSH, allowing you to log in using a terminal emulator  
 
+   C. The `wpa_supplicant.conf` file allows your RPi4 to connect to local network so you can connect to it
+
 ## IV. Use a Terminal Emulator to Connect to RPi4
    A. Run the specific "update" commands  
    
@@ -51,4 +53,4 @@ start4.elf: is not compatible
 
 [More updates to come...] 
 
-Last updated: Oct 9, 2024
+Last updated: Oct 21, 2024
