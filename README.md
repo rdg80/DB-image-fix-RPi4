@@ -23,9 +23,11 @@ start4.elf: is not compatible
    
    2. Replace old files with the known good working files  
    
-   B. **Checkpoint**: Splashscreen intro video should now play when booting up RPi4 with SD card image  
+   B. **Checkpoint**: Splashscreen intro video should now play when booting up RPi4 with SD card image
 
-## III. Add Additional Files to Image for Further Modifications
+   1. But nothing else will work - video will play and no response from anything else
+
+## III. Add Additional Files to Image for Further Modifications (to fix)
    A. Add `ssh` and `wpa_supplicant.conf` files  
    
    1. Edit `wpa_supplicant.conf` to match your internal network credentials  
